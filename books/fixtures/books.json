@@ -1,0 +1,35 @@
+[
+    {
+        "model": "books.book",
+        "pk": "334ba8f9-a3ef-46a2-a38a-fd63df90cb82",
+        "fields": {
+            "title": "Children of Dune",
+            "author": "Frank Herbert",
+            "price": "14.99",
+            "date_publication": "1976-12-04",
+            "cover": "covers/children_of_dune_rz.jpg"
+        }
+    },
+    {
+        "model": "books.book",
+        "pk": "df7cce9c-5047-4b08-8b03-1339de56e8fd",
+        "fields": {
+            "title": "Dune: Messiah",
+            "author": "Frank Herbert",
+            "price": "13.99",
+            "date_publication": "1969-03-12",
+            "cover": "covers/dune_messiah_rz.jpg"
+        }
+    },
+    {
+        "model": "books.book",
+        "pk": "f7bd3752-c694-4e34-8069-3d4b0e8a7f6c",
+        "fields": {
+            "title": "Dune",
+            "author": "Frank Herbert",
+            "price": "12.99",
+            "date_publication": "1965-07-10",
+            "cover": "covers/dune_rz.jpg"
+        }
+    }
+]
